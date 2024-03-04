@@ -1,12 +1,6 @@
-/**
- * Starter code for the restaurant simulation
- * Author: Pranjal Patra
-*/
-
 //Mohammad Makableh
 //Student ID: 202130654
-//Grace days used: 2 
-//Grace days left: 7
+
 
 #include <stdio.h>
 #include <stdlib.h>
